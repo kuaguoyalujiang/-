@@ -4,7 +4,7 @@
 
         {
 
-            "url": "http://饭太硬.ga/tv",
+            "url": "http://饭太硬.top/tv",
 
             "name": "饭太硬"
 
@@ -12,7 +12,7 @@
 
         {
 
-            "url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
 
             "name": "蜂蜜"
 
@@ -20,7 +20,7 @@
 
         {
 
-            "url": "https://hutool.ml/tang",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
 
             "name": "唐三"
 
