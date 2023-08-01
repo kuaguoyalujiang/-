@@ -3,16 +3,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-    "key": "草莓熊",
-    "name": "草莓熊",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "quickSearch": 1,
-    "filterable": 1, 
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wsy926474968/wsy926474968/main/%E8%8D%89%E8%8E%93%E7%86%8A.js"
-    },
-    {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
