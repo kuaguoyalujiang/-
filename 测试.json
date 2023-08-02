@@ -1,17 +1,6 @@
 {
   "sites": [
     {
-  "key": "贱贱",
-  "name": "贱贱",
-  "type": 4,
-  "api": "https://test.dovx.tk/csp/jianpian",
-  "playerType": 1,
-  "searchable": 1,
-  "filterable": 1,
-  "quickSearch": 0,
-  "changeable": 0
-},
-    {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣 | 热播[js]",
       "type": 3,
