@@ -31,7 +31,7 @@
       "name": "荐片 | 影视[js]",
       "type": 3,
       "playerType": "1",
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://gh-proxy.comhttps://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/4a2343ccce9d38a8929f2fe19886bfd269eb54af/js/%E8%8D%90%E7%89%87.js"
     },    
     {
