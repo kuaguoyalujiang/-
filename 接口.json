@@ -14,8 +14,8 @@
       "name": "荐片(drpy)",
       "type": 3,
       "api": "http://101.34.67.237/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "http://101.34.67.237/js/荐片.js"
     },
