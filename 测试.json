@@ -8,6 +8,15 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
     {
+    "key": "6v",
+    "name": "6v",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
+    },
+    {
     "key": "lf_js_p2p",
     "name": "磁力 | lf_p2p",
     "type": 3,
