@@ -14,7 +14,16 @@
     "searchable": 1,
     "changeable": 1,
     "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
+    },
+        {
+    "key": "磁力熊",
+    "name": "磁力熊",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
     },
     {
     "key": "lf_js_p2p",
