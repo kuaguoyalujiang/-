@@ -97,9 +97,18 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
       "changeable": 0
     },
-  {
+    {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
