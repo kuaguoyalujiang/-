@@ -9,7 +9,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
-        {
+   {
             "key": "lf_js_search",
             "name": "搜索 | lf_search",
             "type": 3,
