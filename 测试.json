@@ -16,7 +16,7 @@
   "key": "荐片",
   "name": "荐片",
   "type": 4,
-  "api": "https://test.dovx.tk/csp/jianpian",
+  "api": "./jianpian.json",
   "playerType": 1,
   "searchable": 1,
   "filterable": 1,
