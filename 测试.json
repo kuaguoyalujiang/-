@@ -1,10 +1,10 @@
 {
     "sites": [
-        {
+{
       "key": "csp_wogg_cli",
       "name": "玩偶(cli)",
       "type": 4,
-      "api": "https://raw.githubusercontent.com/wsy926474968/wsy926474968/main/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.js",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -17,7 +17,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
- },
+ },        
         {
             "key": "lf_js_search",
             "name": "搜索 | lf_search",
