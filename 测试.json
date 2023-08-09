@@ -4,7 +4,7 @@
       "key": "csp_wogg_cli",
       "name": "玩偶(cli)",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "api": "./玩偶哥哥.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
