@@ -11,6 +11,17 @@
         "type": "rect",
         "ratio": 1.597
       }
+    },
+        {
+  "key": "荐片",
+  "name": "荐片",
+  "type": 4,
+  "api": "https://test.dovx.tk/csp/jianpian",
+  "playerType": 1,
+  "searchable": 1,
+  "filterable": 1,
+  "quickSearch": 0,
+  "changeable": 0
     }
     ]
 }
