@@ -59,7 +59,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
- }
+ },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+    }
   ],
   "rules": [
     {
