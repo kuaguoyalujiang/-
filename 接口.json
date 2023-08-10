@@ -31,6 +31,16 @@
             "filterable": 1,
             "api": "./lf_ikanbot4_1_min.js"
         },
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+    },
         {
   "key": "荐片",
   "name": "荐片",
