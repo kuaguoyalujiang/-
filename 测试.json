@@ -1,27 +1,9 @@
 {
     "sites": [
-        {
-        "key": "open_js_琨魚",
-        "name": "琨魚",
-        "type": 3,
-        "api": "./kunyu77_open.js",
-        "searchable": 1,
-        "changeable": 1,
-"style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-        {
-  "key": "荐片",
-  "name": "荐片",
-  "type": 4,
-  "api": "./jianpian.json",
-  "playerType": 1,
-  "searchable": 1,
-  "filterable": 1,
-  "quickSearch": 0,
-  "changeable": 0
-    }
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://codeberg.org/AK47/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js/菜狗.js"}  
     ]
 }
