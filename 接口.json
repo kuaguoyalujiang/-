@@ -43,6 +43,18 @@
   "changeable": 0
     },
         {
+        "key": "open_js_琨魚",
+        "name": "琨魚",
+        "type": 3,
+        "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js",
+        "searchable": 1,
+        "changeable": 1,
+"style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+        {
       "key": "push_agent",
       "name": "cli推送",
       "type": 4,
