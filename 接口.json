@@ -43,16 +43,6 @@
   "changeable": 0
     },
         {
-            "key": "888解忧愁",
-            "name": "888解忧愁",
-            "type": 4,
-            "api": "https://private--t410.repl.co/888",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
         "key": "open_js_琨魚",
         "name": "琨魚",
         "type": 3,
