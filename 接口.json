@@ -78,8 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 1,
-      "ext": "你的token"
+      "filterable": 1
     }
   ],
   "rules": [
