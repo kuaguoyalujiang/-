@@ -42,22 +42,6 @@
   "quickSearch": 0,
   "changeable": 0
     },
-            {
-      "key": "wogg",
-      "name": "玩偶",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "changeable": 1
-    },
-                    {
-      "key": "alijusou",
-      "name": "阿里聚合搜",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/ali/cli_Alii?2sort=原画,蓝光,超清,高清",
-      "searchable": 1,
-      "changeable": 1
-    },
         {
         "key": "open_js_琨魚",
         "name": "琨魚",
@@ -71,7 +55,27 @@
       }
     },
         {
-      "key": "push_agent",
+      "key": "cli_Alii",
+      "name": "阿里聚合",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/ali/cli_Alii",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1
+    },
+        {
+      "key": "csp_Wogg",
+      "name": "玩偶哥哥",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1
+    },
+        {
+      "key": "csp_Push",
       "name": "cli推送",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Push",
