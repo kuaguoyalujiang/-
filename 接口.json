@@ -1,5 +1,4 @@
 {
-    "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;edae7af0ef2089cfc135c90ce085aacd",
     "sites": [
         {
             "key": "lf_js_search",
@@ -43,86 +42,16 @@
   "quickSearch": 0,
   "changeable": 0
     },
-    {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "七夜",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "雲搜",
-      "name": "雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜索",
-      "name": "盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    }     
+{
+    "key": "push_agent",
+    "name": "推送 | lf_push",
+    "type": 3,
+    "searchable": 0,
+    "changeable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "api": "./lf_pushagent_min.js"
+}
   ],
   "rules": [
       {
