@@ -32,7 +32,7 @@
             "api": "./lf_ikanbot4_1_min.js"
         },
         {
-  "key": "荐片",
+  "key": "荐片1",
   "name": "荐片",
   "type": 4,
   "api": "https://test.dovx.tk/csp/jianpian",
@@ -53,7 +53,7 @@
       "ext":"你的token"
     },
   {
-      "key": "荐片",
+      "key": "荐片2",
       "name": "荐片(cli)",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
