@@ -1,0 +1,13 @@
+{
+    "lives": [
+        {
+          "name": "在线",
+          "type":"0",
+          "pass": true,
+          //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "url":"https://gh-proxy.com/https://raw.githubusercontent.com/wsy926474968/wsy926474968/main/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
