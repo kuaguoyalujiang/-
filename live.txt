@@ -205,9 +205,6 @@ CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&aut
 音乐,#genre#
 周杰伦,http://epg.112114.xyz/huya/21502780
 虎牙音乐1,http://epg.112114.xyz/huya/15590571
-斗鱼音乐1,http://epg.112114.xyz/douyu/7537296
-斗鱼音乐2,http://epg.112114.xyz/douyu/9588891
-斗鱼音乐3,http://epg.112114.xyz/douyu/3870925
 
 动画,#genre#
 海绵宝宝1,http://epg.112114.xyz/douyu/11922297
