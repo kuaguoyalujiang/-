@@ -202,6 +202,10 @@ CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&aut
 北京卫视,http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
 
+电影,#genre#
+周星驰,http://qvodlive-va.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=ae43a2701eb594412d2fca72046f246c&wsTime=655db84c&seqid=5091228833203&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C264_4000%2C264_6000%2C264_8000%2C&uid=3390609589129&uuid=2580166720&t=100&sv=2110211124&ratio=6000
+周星驰,http://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=2a21005712246de192e1d21365c9769b&wsTime=655db7df&seqid=5096192266460&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_%2A-265_%2A&exsphd=264_500%2C264_2000%2C264_4000%2C264_6000%2C264_8000%2C&uid=3395573131214&uuid=1381240226&t=100&sv=2110211124&ratio=6000
+
 音乐,#genre#
 周杰伦,http://epg.112114.xyz/huya/21502780
 虎牙音乐1,http://epg.112114.xyz/huya/15590571
