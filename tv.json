@@ -2,6 +2,15 @@
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;4bc4aada582cd00fafe20d12508dc2a7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+  {
+  "key": "live",
+  "name": "直播",
+  "type": 3,
+  "api": "csp_Live",
+  "searchable": 0,
+  "filterable": 0,
+  "ext": "2000"
+},
     {
       "key": "泥巴",
       "name": "泥巴",
